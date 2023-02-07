@@ -1,4 +1,6 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center">Trilha Explorer <img width="30" src="./assets/explorer-logo.png"> </h1>
+
+<div align="center"> <img src="./assets/logo.svg">
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -21,6 +23,8 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
+#
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -30,20 +34,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
+#
+
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://andressadacosta.github.io/nlw-setup-explorer/)
+
+#
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238)
 
-## :memo: Licença
+#
 
-Esse projeto está sob a licença MIT.
+Link [Notion ](https://www.notion.so/Trilha-Explorer-6db6b31b594049f68eecdb05704a6922)
 
----
+#
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat 🚀 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
